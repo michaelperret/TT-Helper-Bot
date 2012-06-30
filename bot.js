@@ -16,12 +16,7 @@ var config = {
 	debug     : false,
 	holdMode  : false,
 	watchMode : false,
-	queue     : false,
-	lastfm    : {
-		api_key: "LASTFM_KEY",
-		secret: "LASTFM_SECRET",
-		useragent: "APP_STRING"
-	}
+	queue     : false
 };
 
 
